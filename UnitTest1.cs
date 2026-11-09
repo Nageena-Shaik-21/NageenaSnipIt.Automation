@@ -87,7 +87,7 @@ public class Tests
         var createdAssetRow = Page.GetByRole(AriaRole.Row).Filter(new() { HasTextString = assetTag });
         await Assertions.Expect(createdAssetRow).ToBeVisibleAsync();
         await Assertions.Expect(createdAssetRow).ToContainTextAsync("Macbook Pro 13");
-        await Assertions.Expect(createdAssetRow).ToContainTextAsync("Ready to Deploy");
+        await Assertions.Expect(createdAssetRow).ToContainTextAsync("Ready to Deployed");
 
     
     }

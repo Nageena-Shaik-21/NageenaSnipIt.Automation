@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NageenaSnipIt.Automation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b4c78bf26b43ad367934bc7e1374666ec173d00")]
 [assembly: System.Reflection.AssemblyProductAttribute("NageenaSnipIt.Automation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NageenaSnipIt.Automation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
